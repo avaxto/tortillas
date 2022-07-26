@@ -1,0 +1,31 @@
+{
+  "name": "avaxto",
+  "version": "0.0.1",
+  "description": "AVAX TOrtillas! Open source tools for Avalanche enthusiasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaxto/tortillas.git"
+  },
+  "keywords": [
+    "AVAX",
+    "Avalanche",
+    "cryptocurrency",
+    "Ava",
+    "Labs",
+    "DeFi",
+    "NFT",
+    "tokens",
+    "subnets",
+    "bridge"
+  ],
+  "author": "AVAX.to",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/avaxto/tortillas/issues"
+  },
+  "homepage": "https://github.com/avaxto/tortillas#readme"
+}
